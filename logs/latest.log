@@ -1,0 +1,262 @@
+[00:53:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:53:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:53:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:53:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:53:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:53:20] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[00:53:20] [Server thread/INFO]: Loading properties
+[00:53:20] [Server thread/INFO]: Default game type: SURVIVAL
+[00:53:20] [Server thread/INFO]: Generating keypair
+[00:53:20] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_45]
+	at wd$2.run(SourceFile:110) [server%20(1).jar:?]
+[00:53:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:53:20] [Server thread/INFO]: Using default channel type
+[00:53:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:53:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:53:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:53:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:53:23] [Server thread/INFO]: Preparing level "world"
+[00:53:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:53:24] [Server thread/INFO]: Loaded 6 recipes
+[00:53:25] [Server thread/INFO]: Loaded 825 advancements
+[00:53:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:53:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:31] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[00:53:31] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[00:53:31] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[00:53:31] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[00:53:31] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[00:53:31] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[00:53:32] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[00:53:32] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[00:53:33] [Server-Worker-2/INFO]: Preparing spawn area: 86%
+[00:53:33] [Server-Worker-5/INFO]: Preparing spawn area: 87%
+[00:53:34] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 99%
+[00:53:34] [Server thread/INFO]: Time elapsed: 8512 ms
+[00:53:34] [Server thread/INFO]: Done (11.334s)! For help, type "help"
+[00:53:48] [Server thread/INFO]: Aish[/26.213.179.94:8539] logged in with entity id 171 at (82.5, 72.0, 175.5)
+[00:53:48] [Server thread/INFO]: Aish joined the game
+[00:54:09] [Server thread/INFO]: tsGAMER[/26.221.213.63:55086] logged in with entity id 287 at (81.5, 64.0, 185.5)
+[00:54:09] [Server thread/INFO]: tsGAMER joined the game
+[00:54:10] [Server thread/INFO]: CrazyBotch[/26.221.214.107:59621] logged in with entity id 295 at (88.5, 73.0, 168.5)
+[00:54:10] [Server thread/INFO]: CrazyBotch joined the game
+[00:54:13] [Server thread/INFO]: Aish lost connection: Disconnected
+[00:54:13] [Server thread/INFO]: Aish left the game
+[00:54:30] [Server thread/INFO]: tsGAMER lost connection: Timed out
+[00:54:30] [Server thread/INFO]: tsGAMER left the game
+[00:54:30] [Server thread/INFO]: KnightHart[/26.204.187.230:57667] logged in with entity id 336 at (85.5, 64.0, 181.5)
+[00:54:30] [Server thread/INFO]: KnightHart joined the game
+[00:54:45] [Server thread/INFO]: KnightHart lost connection: Timed out
+[00:54:45] [Server thread/INFO]: KnightHart left the game
+[00:54:46] [Server thread/INFO]: tsGAMER[/26.221.213.63:55090] logged in with entity id 371 at (81.5, 64.0, 185.5)
+[00:54:46] [Server thread/INFO]: tsGAMER joined the game
+[00:55:04] [Server thread/INFO]: KnightHart[/26.204.187.230:57669] logged in with entity id 451 at (84.0647301476826, 64.0, 183.18948735324966)
+[00:55:04] [Server thread/INFO]: KnightHart joined the game
+[00:55:15] [Server thread/INFO]: <KnightHart> sdjkhgios
+[00:55:17] [Server thread/INFO]: <KnightHart> kha;a
+[00:55:39] [Server thread/INFO]: Aish[/26.213.179.94:8585] logged in with entity id 643 at (82.5, 72.0, 175.5)
+[00:55:39] [Server thread/INFO]: Aish joined the game
+[00:56:34] [Server thread/INFO]: Made Aish a server operator
+[00:56:35] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=94, y=68, z=184} fk{x=91, y=63, z=182}
+[00:56:38] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=79, y=76, z=173} fk{x=77, y=70, z=170}
+[00:57:06] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=94, y=68, z=184} fk{x=92, y=63, z=182}
+[00:57:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=94, y=68, z=184} fk{x=91, y=62, z=182}
+[00:57:21] [Server thread/INFO]: CrazyBotch has made the advancement [Stone Age]
+[00:57:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=94, y=68, z=184} fk{x=91, y=62, z=182}
+[00:57:31] [Server thread/INFO]: <Aish> tp CrazyBotch
+[00:58:00] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=94, y=68, z=184} fk{x=92, y=71, z=182}
+[00:58:01] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=94, y=68, z=184} fk{x=92, y=71, z=181}
+[00:58:05] [Server thread/INFO]: KnightHart lost connection: Disconnected
+[00:58:05] [Server thread/INFO]: KnightHart left the game
+[00:58:06] [Server thread/INFO]: CrazyBotch has made the advancement [Getting an Upgrade]
+[00:58:07] [Server thread/INFO]: KnightHart[/26.204.187.230:57676] logged in with entity id 1256 at (92.58195646998354, 70.0, 180.69999998807907)
+[00:58:07] [Server thread/INFO]: KnightHart joined the game
+[00:58:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=77, y=70, z=170}
+[00:58:16] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=92, y=71, z=182}
+[00:58:16] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=77, y=70, z=170}
+[00:58:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=78, y=70, z=169}
+[00:58:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=77, y=71, z=170}
+[00:58:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=91, y=70, z=181}
+[00:58:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=78, y=70, z=170}
+[00:58:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=77, y=70, z=170}
+[00:58:26] [Server thread/INFO]: KnightHart lost connection: Timed out
+[00:58:26] [Server thread/INFO]: KnightHart left the game
+[00:58:33] [Server thread/INFO]: KnightHart[/26.204.187.230:57685] logged in with entity id 1364 at (92.59844891750288, 70.7531999805212, 180.69999998807907)
+[00:58:33] [Server thread/INFO]: KnightHart joined the game
+[00:58:35] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=88, y=73, z=166}
+[00:58:36] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=180, y=68, z=140} fk{x=88, y=73, z=166}
+[00:58:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=95, y=73, z=183}
+[00:59:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=95, y=73, z=183}
+[00:59:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=95, y=73, z=183}
+[00:59:16] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=95, y=73, z=183}
+[00:59:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=95, y=74, z=184}
+[00:59:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=95, y=74, z=183}
+[00:59:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=95, y=74, z=184}
+[00:59:31] [Server thread/INFO]: CrazyBotch has made the advancement [Acquire Hardware]
+[00:59:47] [Server thread/INFO]: <Aish> tp CrazyBotch
+[00:59:48] [Server thread/INFO]: KnightHart has made the advancement [Stone Age]
+[01:00:33] [Server thread/INFO]: CrazyBotch has made the advancement [Isn't It Iron Pick]
+[01:01:42] [Server thread/INFO]: tsGAMER has made the advancement [Stone Age]
+[01:01:56] [Server thread/INFO]: Aish has made the advancement [Stone Age]
+[01:02:57] [Server thread/INFO]: tsGAMER has made the advancement [Getting an Upgrade]
+[01:03:58] [Server thread/INFO]: <KnightHart> BRO
+[01:04:06] [Server thread/INFO]: <KnightHart> LEL
+[01:06:34] [Server thread/INFO]: <KnightHart> T
+[01:06:38] [Server thread/INFO]: Aish lost connection: Disconnected
+[01:06:38] [Server thread/INFO]: Aish left the game
+[01:06:46] [Server thread/INFO]: Aish[/26.213.179.94:8635] logged in with entity id 2846 at (89.69999998807907, 40.0, 263.80566089209384)
+[01:06:46] [Server thread/INFO]: Aish joined the game
+[01:07:05] [Server thread/INFO]: Nothing changed. The player already is an operator
+[01:07:16] [Server thread/INFO]: <Aish> help
+[01:07:19] [Server thread/INFO]: <KnightHart> WATW
+[01:07:30] [Server thread/INFO]: <Aish> hep
+[01:08:10] [Server thread/INFO]: <Aish> tp CrazyBotch
+[01:08:13] [Server thread/INFO]: <KnightHart> LEL
+[01:08:21] [Server thread/INFO]: [Aish: Teleported Aish to CrazyBotch]
+[01:08:21] [Server thread/WARN]: Aish moved too quickly! -4.191249441896417,-17.0,10.824319611514
+[01:08:21] [Server thread/WARN]: Aish moved too quickly! -4.191249441896417,-17.0,10.824319611514
+[01:08:23] [Server thread/INFO]: tsGAMER has made the advancement [Monster Hunter]
+[01:08:40] [Server thread/INFO]: tsGAMER was slain by Zombie
+[01:08:43] [Server thread/INFO]: CrazyBotch has made the advancement [Monster Hunter]
+[01:08:53] [Server thread/INFO]: KnightHart has made the advancement [Monster Hunter]
+[01:09:21] [Server thread/INFO]: [Aish: Teleported tsGAMER to CrazyBotch]
+[01:10:59] [Server thread/INFO]: CrazyBotch was slain by Zombie
+[01:11:17] [Server thread/WARN]: CrazyBotch moved too quickly! 3.431326205434388,12.0,-65.16527240914095
+[01:11:32] [Server thread/INFO]: Aish has made the advancement [Monster Hunter]
+[01:11:35] [Server thread/INFO]: tsGAMER has made the advancement [Isn't It Iron Pick]
+[01:13:19] [Server thread/INFO]: <KnightHart> HERE
+[01:13:50] [Server thread/INFO]: Aish was slain by Zombie
+[01:17:49] [Server thread/INFO]: tsGAMER has made the advancement [Acquire Hardware]
+[01:19:08] [Server thread/INFO]: KnightHart has made the advancement [The Parrots and the Bats]
+[01:20:18] [Server thread/INFO]: <KnightHart> no
+[01:20:35] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=85, y=63, z=229} fk{x=84, y=62, z=229}
+[01:23:12] [Server thread/INFO]: KnightHart has made the advancement [Getting an Upgrade]
+[01:25:01] [Server thread/INFO]: <KnightHart> ok kreeper outside
+[01:25:37] [Server thread/INFO]: [Aish: Gave 10 [Block of Iron] to Aish]
+[01:26:08] [Server thread/INFO]: Aish has made the advancement [Acquire Hardware]
+[01:27:23] [Server thread/INFO]: CrazyBotch was blown up by Creeper
+[01:27:29] [Server thread/INFO]: Aish has made the advancement [Isn't It Iron Pick]
+[01:30:49] [Server thread/WARN]: KnightHart moved too quickly! -7.316225375854643,-3.0,6.175921871767173
+[01:31:53] [Server thread/INFO]: Aish has made the advancement [Suit Up]
+[01:32:30] [Server thread/INFO]: CrazyBotch has made the advancement [Suit Up]
+[01:33:10] [Server thread/INFO]: tsGAMER has made the advancement [Suit Up]
+[01:34:57] [Server thread/INFO]: [Aish: Teleported Aish to CrazyBotch]
+[01:34:57] [Server thread/WARN]: Aish moved too quickly! 6.5322481697710515,23.176759275064242,-43.870218950327455
+[01:34:57] [Server thread/WARN]: Aish moved too quickly! 6.5322481697710515,23.176759275064242,-43.870218950327455
+[01:34:57] [Server thread/WARN]: Aish moved too quickly! 6.5322481697710515,23.176759275064242,-43.870218950327455
+[01:36:15] [Server thread/INFO]: [Aish: Teleported Aish to KnightHart]
+[01:36:15] [Server thread/WARN]: Aish moved too quickly! -93.88727622628157,37.02442408821369,-11.746447855564497
+[01:36:15] [Server thread/WARN]: Aish moved too quickly! -93.88727622628157,37.02442408821369,-11.746447855564497
+[01:38:56] [Server thread/INFO]: CrazyBotch has made the advancement [Not Today, Thank You]
+[01:42:45] [Server thread/INFO]: tsGAMER fell from a high place
+[01:44:36] [Server thread/INFO]: <KnightHart> ashish hwmany bd u hav
+[01:44:41] [Server thread/INFO]: <KnightHart> no i hav a bed
+[01:44:49] [Server thread/INFO]: <KnightHart> blu ray disk
+[01:45:03] [Server thread/INFO]: <KnightHart> put yo bed here
+[01:45:04] [Server thread/WARN]: tsGAMER moved too quickly! 0.3751807829263356,-10.556602614620111,-2.0344612606697865
+[01:45:05] [Server thread/INFO]: tsGAMER was shot by Skeleton
+[01:45:09] [Server thread/INFO]: KnightHart has made the advancement [Sweet Dreams]
+[01:45:19] [Server thread/INFO]: <KnightHart> fkkr
+[01:46:57] [Server thread/INFO]: <KnightHart> its ridin chiker
+[01:47:12] [Server thread/INFO]: tsGAMER was shot by Skeleton
+[01:47:29] [Server thread/INFO]: KnightHart has made the advancement [A Seedy Place]
+[01:47:49] [Server thread/INFO]: tsGAMER lost connection: Timed out
+[01:47:49] [Server thread/INFO]: tsGAMER left the game
+[01:48:02] [Server thread/INFO]: tsGAMER[/26.221.213.63:55290] logged in with entity id 9925 at (80.5918930090839, 63.0, 207.24193598022896)
+[01:48:02] [Server thread/INFO]: tsGAMER joined the game
+[01:48:03] [Server thread/INFO]: KnightHart lost connection: Timed out
+[01:48:03] [Server thread/INFO]: KnightHart left the game
+[01:48:11] [Server thread/INFO]: KnightHart[/26.204.187.230:57871] logged in with entity id 9958 at (90.3917160515862, 64.02442408821369, 217.57646639676338)
+[01:48:11] [Server thread/INFO]: KnightHart joined the game
+[01:51:18] [Server thread/INFO]: [Aish: Teleported tsGAMER to CrazyBotch]
+[01:52:02] [Server thread/INFO]: Aish was shot by Pillager
+[01:53:21] [Server thread/INFO]: tsGAMER was slain by Spider
+[01:55:09] [Server thread/INFO]: [Aish: Gave 1 [Water Bucket] to Aish]
+[01:55:34] [Server thread/INFO]: CrazyBotch was shot by Pillager
+[01:56:25] [Server thread/INFO]: CrazyBotch was shot by Pillager
+[01:57:16] [Server thread/INFO]: Aish was shot by Pillager
+[01:57:57] [Server thread/INFO]: KnightHart has made the advancement [Acquire Hardware]
+[01:58:45] [Server thread/INFO]: KnightHart has made the advancement [Not Today, Thank You]
+[01:58:48] [Server thread/INFO]: CrazyBotch has made the advancement [Voluntary Exile]
+[02:01:26] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/12711, l='world', x=35.50, y=41.35, z=158.40]
+[02:03:30] [Server thread/INFO]: tsGAMER fell from a high place
+[02:04:56] [Server thread/INFO]: CrazyBotch has made the advancement [A Seedy Place]
+[02:08:20] [Server thread/INFO]: KnightHart lost connection: Timed out
+[02:08:20] [Server thread/INFO]: KnightHart left the game
+[02:08:20] [Server thread/INFO]: KnightHart[/26.204.187.230:57937] logged in with entity id 13828 at (90.68126861840263, 64.0, 228.59849783899688)
+[02:08:20] [Server thread/INFO]: KnightHart joined the game
+[02:08:48] [Server thread/INFO]: KnightHart lost connection: Timed out
+[02:08:48] [Server thread/INFO]: KnightHart left the game
+[02:08:55] [Server thread/INFO]: KnightHart[/26.204.187.230:57954] logged in with entity id 13981 at (90.68126861840263, 64.0, 228.59849783899688)
+[02:08:55] [Server thread/INFO]: KnightHart joined the game
+[02:09:08] [Server thread/INFO]: KnightHart was shot by Pillager
+[02:09:26] [Server thread/INFO]: KnightHart lost connection: Timed out
+[02:09:26] [Server thread/INFO]: KnightHart left the game
+[02:09:33] [Server thread/INFO]: KnightHart[/26.204.187.230:57956] logged in with entity id 14116 at (90.68126861840263, 64.0, 228.59849783899688)
+[02:09:33] [Server thread/INFO]: KnightHart joined the game
+[02:09:39] [Server thread/INFO]: KnightHart lost connection: Disconnected
+[02:09:39] [Server thread/INFO]: KnightHart left the game
+[02:10:02] [Server thread/INFO]: KnightHart[/26.204.187.230:58067] logged in with entity id 14206 at (90.68126861840263, 64.0, 228.59849783899688)
+[02:10:02] [Server thread/INFO]: KnightHart joined the game
+[02:10:37] [Server thread/INFO]: Aish has made the advancement [Sweet Dreams]
+[02:10:42] [Server thread/INFO]: KnightHart lost connection: Timed out
+[02:10:42] [Server thread/INFO]: KnightHart left the game
+[02:10:49] [Server thread/INFO]: KnightHart[/26.204.187.230:58122] logged in with entity id 14329 at (90.68126861840263, 64.0, 228.59849783899688)
+[02:10:49] [Server thread/INFO]: KnightHart joined the game
+[02:10:50] [Server thread/INFO]: tsGAMER has made the advancement [Sweet Dreams]
+[02:11:20] [Server thread/INFO]: KnightHart lost connection: Timed out
+[02:11:20] [Server thread/INFO]: KnightHart left the game
+[02:18:10] [Server thread/INFO]: Aish lost connection: Disconnected
+[02:18:10] [Server thread/INFO]: Aish left the game
+[02:18:27] [Server thread/WARN]: tsGAMER moved too quickly! 6.544341671319842,2.750812921255317,7.1940614791460575
+[02:18:28] [Server thread/WARN]: CrazyBotch moved too quickly! 3.6620295622732044,-6.220115580286546,7.0750467886877
+[02:21:58] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=163, y=83, z=263} fk{x=163, y=83, z=264}
+[02:22:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=168, y=83, z=259} fk{x=169, y=84, z=261}
+[02:25:32] [Server thread/INFO]: KnightHart[/26.204.187.230:58520] logged in with entity id 17175 at (90.68126861840263, 64.0, 228.59849783899688)
+[02:25:32] [Server thread/INFO]: KnightHart joined the game
+[02:25:55] [Server thread/INFO]: KnightHart lost connection: Timed out
+[02:25:55] [Server thread/INFO]: KnightHart left the game
+[02:27:08] [Server thread/INFO]: KnightHart[/26.204.187.230:58540] logged in with entity id 17366 at (90.68126861840263, 64.0, 228.59849783899688)
+[02:27:08] [Server thread/INFO]: KnightHart joined the game
+[02:27:16] [Server thread/INFO]: tsGAMER lost connection: Disconnected
+[02:27:16] [Server thread/INFO]: tsGAMER left the game
+[02:27:26] [Server thread/INFO]: KnightHart lost connection: Timed out
+[02:27:26] [Server thread/INFO]: KnightHart left the game
+[02:30:43] [Server thread/INFO]: CrazyBotch has made the advancement [Sweet Dreams]
+[02:30:52] [Server thread/INFO]: CrazyBotch lost connection: Disconnected
+[02:30:52] [Server thread/INFO]: CrazyBotch left the game
+[02:32:26] [Server thread/INFO]: Unknown command
+[02:32:26] [Server thread/INFO]: save<--[HERE]
+[02:32:32] [Server thread/INFO]: Unknown command
+[02:32:32] [Server thread/INFO]: exit<--[HERE]
+[02:32:38] [Server thread/INFO]: Stopping the server
+[02:32:38] [Server thread/INFO]: Stopping server
+[02:32:38] [Server thread/INFO]: Saving players
+[02:32:38] [Server thread/INFO]: Saving worlds
+[02:32:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:32:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:32:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[02:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
