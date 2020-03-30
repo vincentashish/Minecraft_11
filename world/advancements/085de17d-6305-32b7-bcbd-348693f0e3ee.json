@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-03-30 16:04:25 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2020-03-30 01:23:30 +0530"
@@ -887,6 +893,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2020-03-30 16:04:26 +0530",
       "minecraft:zombie": "2020-03-30 01:08:23 +0530"
     },
     "done": false
